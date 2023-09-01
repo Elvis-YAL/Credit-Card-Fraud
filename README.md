@@ -11,3 +11,7 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 
 I use Traditional Machine Learning and Catboost to predict credit card fraud. 
 Also, I try some unsupervised learning such as autoencoder and evaluate with the label of fraud data.
+
+Here's the picture of Autoencoder result. I plot normal and fraud data with two dimensional, and it's envident that the data has been segregated into categories of normal and fraud data.
+
+![image](https://github.com/Elvis-YAL/Credit-Card-Fraud/assets/40426433/1fdca1e4-a8e3-4956-a323-3f485b9c52bc)
