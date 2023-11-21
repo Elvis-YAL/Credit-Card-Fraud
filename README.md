@@ -1,4 +1,7 @@
-# Credit-Card-Fraud
+# Credit Card Fraud : Project Overview
+* Create a model to predict credit card fraud that enable users to more vigilant against suspicious fraud indicators.  
+* Optimized models using Catboost, SMOTE, AutoEncoder to achieve the final desired outcomes.
+
 
 The dataset contains transactions made by credit cards in September 2013 by European cardholders.
 This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
